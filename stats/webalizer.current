@@ -1,0 +1,650 @@
+# Webalizer V2.23-08 Incremental Data - 07/22/2020 00:06:33
+2020 7 22 0 6 33
+2085 1521 85 99 19 21 40278517 298 107 0 0 0
+1 21 577 1 22
+15 0 5790 6 9 7 0 0
+13 0 4826 4 6 3 0 0
+4 0 1474 1 2 1 0 0
+14 0 5143 5 8 5 0 0
+15 0 5636 8 7 5 0 0
+10 0 3758 3 5 3 0 0
+14 0 5232 4 7 4 0 0
+11 0 3893 5 7 5 0 0
+13 0 4906 5 8 5 0 0
+19 0 7265 9 11 8 0 0
+18 0 6800 6 10 7 0 0
+14 0 5310 7 8 6 0 0
+8 0 2948 2 4 2 0 0
+12 0 4419 6 5 3 0 0
+10 0 3703 4 6 4 0 0
+8 0 2948 2 4 2 0 0
+12 0 4422 3 6 3 0 0
+8 0 2948 2 4 2 0 0
+8 0 3043 4 5 4 0 0
+14 0 5236 5 8 5 0 0
+1824 1503 39436235 13 165 22 0 0
+21 18 752582 1 3 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+30 18 755937 8 0 0
+18 0 6786 11 0 0
+11 0 4128 6 0 0
+1 0 407 1 0 0
+530 457 10214690 40 0 0
+105 82 2522952 11 0 0
+590 473 12114777 64 0 0
+219 162 4445294 39 0 0
+7 0 2691 4 0 0
+7 3 12427 5 0 0
+15 1 10459 8 0 0
+33 10 126700 10 0 0
+63 27 263473 11 0 0
+8 0 2948 4 0 0
+13 1 10072 8 0 0
+10 0 3758 5 0 0
+234 187 5482923 16 0 0
+95 63 3035132 16 0 0
+5 0 1881 3 0 0
+10 2 13949 5 0 0
+5 0 1973 3 0 0
+17 0 6300 8 0 0
+39 26 1154706 4 0 0
+20 9 84154 8 0 0
+0
+0
+0
+1521
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+296
+0
+0
+0
+0
+0
+130
+137
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/revolution/home-1/2.jpg
+1 1 0 287123 0 0 0 0
+/revolution/js/extensions/revolution.extension.actions.min.js
+0 36 0 104943 0 0 0 0
+/fonts/ui-icons.woff2
+0 20 0 170975 0 0 0 0
+/js/jquery.min.js
+0 40 0 1364183 0 0 0 0
+/portfolio.html
+0 1 0 2799 0 0 0 0
+/revolution/js/extensions/revolution.extension.parallax.min.js
+0 37 0 132575 0 0 0 0
+/img/revolution/home-2/1.jpg
+1 38 0 3432253 0 0 0 0
+/img/portfolio/15.jpg
+1 10 0 301376 0 0 0 0
+/img/services/1.jpg
+1 5 0 240125 0 0 0 0
+/single-post.html
+0 2 0 12426 1 0 0 0
+/icons.html
+0 1 0 3722 0 0 0 0
+/img/partners/5.png
+1 1 0 2388 0 0 0 0
+/about.html
+0 1 0 3790 0 0 0 0
+/js/plugins.js
+0 40 0 1070501 0 0 0 0
+/js/google-map.js
+0 35 0 25698 0 0 0 0
+/img/portfolio/5.jpg
+1 17 0 391812 0 0 0 0
+/img/logo.png
+1 15 0 49087 0 0 0 0
+/img/portfolio/masonry/2.jpg
+1 25 0 809869 0 0 0 0
+/img/blog/from_blog_1.jpg
+1 1 0 23047 0 0 0 0
+/css/style.css.map
+0 18 0 234083 0 0 0 0
+/img/portfolio/12.jpg
+1 17 0 479514 0 0 0 0
+/fonts/Icon54.ttf
+0 19 0 849703 0 0 0 0
+/img/services/4.jpg
+1 5 0 266021 0 0 0 0
+/img/portfolio/14.jpg
+1 10 0 270563 0 0 0 0
+/js/bootstrap.min.js
+0 40 0 537949 0 0 0 0
+/img/intro/1.jpg
+1 1 0 52388 0 0 0 0
+/img/portfolio/v-2/1.jpg
+1 36 0 3016883 0 0 0 0
+/img/partners/1.png
+1 1 0 2731 0 0 0 0
+/img/footer/1.jpg
+1 19 0 1239473 0 0 0 0
+/img/testimonials/bg.jpg
+1 34 0 3394288 0 0 0 0
+/revolution/js/extensions/revolution.extension.carousel.min.js
+0 37 0 108861 0 0 0 0
+/img/portfolio/featured.jpg
+1 9 0 1231241 0 0 0 0
+/img/portfolio/v-2/2.jpg
+1 35 0 3097170 0 0 0 0
+/revolution/js/extensions/revolution.extension.migration.min.js
+0 37 0 273211 0 0 0 0
+/css/font-icons.css
+0 41 0 129007 0 0 0 0
+/js/gmap3.min.js
+0 36 0 149340 0 0 0 0
+/img/portfolio/masonry/4.jpg
+1 25 0 455935 0 0 0 0
+/revolution/js/extensions/revolution.extension.layeranimation.min.js
+0 36 0 527042 0 0 0 0
+/img/portfolio/2.jpg
+1 19 0 512131 0 0 0 0
+/portfolio-single.html
+0 3 0 11280 0 1 0 0
+/index-3.html
+0 1 0 5495 1 0 0 0
+/img/revolution/home-1/3.jpg
+1 1 0 297860 0 0 0 0
+/single-service.html
+0 2 0 7204 1 1 0 0
+/img/portfolio/13.jpg
+1 10 0 314692 0 0 0 0
+/portfolio-gallery.html
+0 7 0 21072 0 0 0 0
+/img/portfolio/masonry/3.jpg
+1 25 0 448942 0 0 0 0
+/img/partners/6.png
+1 1 0 2865 0 0 0 0
+/img/portfolio/4.jpg
+1 19 0 516055 0 0 0 0
+/revolution/js/extensions/revolution.extension.kenburn.min.js
+0 36 0 68510 0 0 0 0
+/img/favicon.ico
+0 24 0 28419 0 0 0 0
+/img/portfolio/3.jpg
+1 19 0 471351 0 0 0 0
+/css/style.css
+0 39 0 738598 0 0 0 0
+/img/portfolio/11.jpg
+1 17 0 427264 0 0 0 0
+/img/logo_white@2x.png
+1 28 0 369894 0 0 0 0
+/index-2.html
+0 1 0 5655 0 0 0 0
+/img/revolution/home-1/1.jpg
+1 1 0 298062 0 0 0 0
+/img/portfolio/7.jpg
+1 17 0 383891 0 0 0 0
+/img/portfolio/10.jpg
+1 17 0 404628 0 0 0 0
+/img/portfolio/6.jpg
+1 17 0 385217 0 0 0 0
+/img/partners/4.png
+1 1 0 2378 0 0 0 0
+/css/bootstrap.min.css
+0 40 0 321736 0 0 0 0
+/js/scripts.js
+0 41 0 105624 0 0 0 0
+/img/page-title/portfolio.jpg
+1 17 0 1548899 0 0 0 0
+/contact.html
+0 1 0 3380 0 0 0 0
+/img/logo_white.png
+1 7 0 8175 0 0 0 0
+/img/services/2.jpg
+1 5 0 272194 0 0 0 0
+/img/portfolio/9.jpg
+1 17 0 404398 0 0 0 0
+/revolution/css/settings.css
+0 40 3328502271154139402 298220 0 0 0 0
+/revolution/fonts/revicons/revicons.woff
+0 1 0 7825 0 0 0 0
+/img/apple-touch-icon-114x114.png
+1 21 0 74070 0 0 0 0
+/img/partners/2.png
+1 1 0 2617 0 0 0 0
+/img/portfolio/8.jpg
+1 17 0 384918 0 0 0 0
+/
+0 72 0 399156 14 4 0 0
+/css/slick/ajax-loader.gif
+1 38 0 87923 0 0 0 0
+/blog-masonry.html
+0 2 0 6508 1 1 0 0
+/img/portfolio/16.jpg
+1 10 0 285459 0 0 0 0
+/img/portfolio/masonry/1.jpg
+1 25 0 671855 0 0 0 0
+/img/team/1.jpg
+1 7 0 86566 0 0 0 0
+/img/partners/3.png
+1 1 0 3413 0 0 0 0
+/img/portfolio/1.jpg
+1 17 0 350596 0 0 0 0
+/project-single.html
+0 13 0 35355 3 4 0 0
+/img/services/single/2.jpg
+1 2 0 61008 0 0 0 0
+/img/blog/from_blog_2.jpg
+1 1 0 24851 0 0 0 0
+/blog.html
+0 1 0 3304 0 0 0 0
+/js/rev-slider.js
+0 37 0 44897 0 0 0 0
+/img/team/2.jpg
+1 7 0 95869 0 0 0 0
+/img/logo@2x.png
+1 45 0 642994 0 0 0 0
+/revolution/js/jquery.themepunch.tools.min.js
+0 36 0 1392537 0 0 0 0
+/img/services/3.jpg
+1 5 0 285225 0 0 0 0
+/elements.html
+0 1 0 3901 0 0 0 0
+/img/services/single/1.jpg
+1 3 0 105389 0 0 0 0
+/img/team/3.jpg
+1 7 0 88459 0 0 0 0
+/projects.html
+0 46 0 133887 1 1 0 0
+/revolution/js/extensions/revolution.extension.slideanims.min.js
+0 37 0 267291 0 0 0 0
+/revolution/js/extensions/revolution.extension.navigation.min.js
+0 35 0 258441 0 0 0 0
+/index-4.html
+0 1 0 4317 0 0 0 0
+/services.html
+0 1 0 3329 0 0 0 0
+/revolution/js/jquery.themepunch.revolution.min.js
+0 36 0 664109 0 0 0 0
+/revolution/js/extensions/revolution.extension.video.min.js
+0 37 0 273842 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+13.231.235.85
+0 1 0 187 1 1594203826 0 0
+-
+34.75.82.143
+0 4 0 1474 1 1594905231 0 0
+-
+66.249.75.127
+0 9 0 3655 7 1594476326 0 0
+-
+34.75.153.107
+0 4 0 1474 1 1593712705 0 0
+-
+66.249.66.219
+0 5 0 2028 3 1594358032 0 0
+-
+66.249.75.123
+0 3 0 1221 3 1594517988 0 0
+-
+209.17.96.186
+0 1 0 351 1 1595199532 0 0
+-
+34.74.196.157
+0 1 0 407 1 1595248793 0 0
+-
+66.249.64.59
+0 59 57 590945 5 1595374405 0 0
+/single-post.html
+209.17.96.154
+0 1 0 351 1 1594809326 0 0
+-
+34.75.62.25
+0 4 0 1474 1 1594643054 0 0
+-
+34.75.92.239
+0 4 0 1474 1 1594815736 0 0
+-
+192.71.3.26
+0 1 0 367 0 0 0 0
+-
+35.229.43.242
+0 4 0 1474 1 1593907069 0 0
+-
+34.75.11.192
+0 6 0 2211 2 1595072518 0 0
+-
+192.71.23.211
+0 1 0 367 0 0 0 0
+-
+66.249.75.125
+0 5 0 2025 2 1594509510 0 0
+-
+192.71.126.175
+0 1 1 5465 1 1595329016 0 0
+/
+35.196.38.103
+0 12 0 4422 3 1593882619 0 0
+-
+3.23.112.241
+0 2 0 740 1 1594257856 0 0
+-
+66.249.66.221
+0 2 0 814 2 1595197595 0 0
+-
+34.75.249.38
+0 4 0 1474 1 1593995050 0 0
+-
+66.249.64.63
+0 14 12 89384 4 1595374626 0 0
+/blog-masonry.html
+209.17.96.10
+0 1 0 351 1 1593865344 0 0
+-
+35.243.169.85
+0 4 0 1474 1 1594618570 0 0
+-
+104.196.42.227
+0 4 0 1474 1 1594738453 0 0
+-
+34.75.124.232
+0 4 2 11664 1 1595361213 0 0
+/
+66.249.65.221
+0 1 0 407 1 1593568715 0 0
+-
+35.231.164.79
+0 4 0 1474 1 1594275661 0 0
+-
+34.74.21.204
+0 4 0 1474 1 1594104554 0 0
+-
+35.237.230.125
+0 4 0 1474 1 1594191901 0 0
+-
+192.71.12.140
+0 1 0 367 0 0 0 0
+-
+35.243.197.177
+0 4 0 1474 1 1595205213 0 0
+-
+35.196.134.242
+0 4 0 1474 1 1594386951 0 0
+-
+34.73.135.219
+0 4 0 1474 1 1594482801 0 0
+-
+120.17.132.31
+0 36 23 240816 1 1595318373 0 0
+/
+34.73.171.237
+0 4 0 1474 1 1594051437 0 0
+-
+35.231.9.246
+0 4 0 1474 1 1593826343 0 0
+-
+66.249.66.223
+0 5 0 2028 3 1594326735 0 0
+-
+104.196.35.152
+0 4 0 1474 1 1593674858 0 0
+-
+35.227.51.138
+0 4 0 1474 1 1594839502 0 0
+-
+34.214.220.219
+0 1 0 370 1 1593828438 0 0
+-
+34.74.93.92
+0 4 0 1474 1 1593690598 0 0
+-
+66.249.64.61
+0 29 27 225166 3 1595374886 0 0
+/single-service.html
+34.75.239.164
+0 4 0 1474 1 1594517402 0 0
+-
+34.75.77.246
+0 4 0 1474 1 1594436364 0 0
+-
+37.1.204.92
+0 1 0 404 1 1594821624 0 0
+-
+34.75.45.57
+0 4 0 1474 1 1594305768 0 0
+-
+34.75.164.61
+0 4 0 1474 1 1594534298 0 0
+-
+34.74.147.247
+0 4 0 1474 1 1594089286 0 0
+-
+185.13.39.207
+0 1 0 404 0 0 0 0
+-
+192.71.44.44
+0 2 0 737 1 1594704694 0 0
+-
+34.222.62.147
+0 1 0 407 1 1595227119 0 0
+-
+34.75.245.112
+0 4 0 1474 1 1594354075 0 0
+-
+35.231.39.161
+0 4 0 1474 1 1595273880 0 0
+-
+35.237.109.206
+0 4 0 1474 1 1594769882 0 0
+-
+220.233.85.176
+0 1225 1062 30093279 3 1595351227 0 0
+/project-single.html
+34.75.191.66
+0 4 0 1474 1 1595093252 0 0
+-
+35.190.156.163
+0 4 0 1474 1 1595022331 0 0
+-
+110.174.253.202
+0 53 53 1736323 1 1595318163 0 0
+/
+114.198.24.202
+0 365 229 5366860 4 1595371142 0 0
+/
+35.231.221.23
+0 4 0 1474 1 1594158772 0 0
+-
+34.75.10.87
+0 4 0 1474 1 1595180091 0 0
+-
+93.113.206.203
+0 1 0 404 0 0 0 0
+-
+34.74.227.16
+0 4 0 1474 1 1593913738 0 0
+-
+209.17.97.50
+0 1 0 351 1 1594498839 0 0
+-
+192.71.36.158
+0 1 0 367 0 0 0 0
+-
+34.75.180.54
+0 4 0 1474 1 1594999479 0 0
+-
+35.229.91.121
+0 4 0 1474 1 1593796927 0 0
+-
+34.74.85.212
+0 4 0 1474 1 1594890147 0 0
+-
+34.75.197.174
+0 4 0 1474 1 1594367976 0 0
+-
+34.74.17.170
+0 4 0 1474 1 1594462214 0 0
+-
+120.17.147.156
+0 21 18 752582 1 1595376392 0 0
+/project-single.html
+157.39.84.60
+0 38 38 1076450 1 1595312560 0 0
+/
+192.71.2.171
+0 1 0 370 1 1593971948 0 0
+-
+34.74.147.43
+0 4 0 1474 1 1593966335 0 0
+-
+192.71.142.35
+0 1 0 367 0 0 0 0
+-
+52.37.190.69
+0 1 0 407 1 1594340273 0 0
+-
+66.249.65.222
+0 2 0 810 1 1593565932 0 0
+-
+35.243.138.31
+0 4 0 1474 1 1595281066 0 0
+-
+34.75.219.46
+0 4 0 1474 1 1594245289 0 0
+-
+34.75.112.66
+0 4 0 1474 1 1594986968 0 0
+-
+192.36.70.176
+0 2 0 734 0 0 0 0
+-
+192.36.71.133
+0 1 0 367 0 0 0 0
+-
+209.17.96.218
+0 1 0 351 1 1594224910 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+120.17.147.156
+0 21 18 752582 1 1595376392 0 0
+/project-single.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://xclusivehomes.com.au/
+0 637
+http://xclusivehomes.com.au/elements.html
+0 8
+http://xclusivehomes.com.au/revolution/css/settings.css
+0 1
+http://xclusivehomes.com.au/portfolio-gallery.html
+0 77
+http://xclusivehomes.com.au/contact.html
+0 10
+http://xclusivehomes.com.au/index.html
+0 412
+http://www.xclusivehomes.com.au/css/style.css
+0 1
+http://xclusivehomes.com.au/css/font-icons.css
+0 31
+- (Direct Request)
+0 404
+http://www.xclusivehomes.com.au/css/font-icons.css
+0 2
+http://xclusivehomes.com.au/portfolio-single.html
+0 14
+http://xclusivehomes.com.au/index-2.html
+0 36
+http://xclusivehomes.com.au/project-single.html
+0 40
+http://xclusivehomes.com.au/css/style.css
+0 33
+http://xclusivehomes.com.au/img/revolution/home-2/1.jpg
+0 1
+http://xclusivehomes.com.au/index-3.html
+0 22
+http://xclusivehomes.com.au/projects.html
+0 316
+http://www.xclusivehomes.com.au/
+0 34
+http://xclusivehomes.com.au/single-post.html
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.122 Mobile 
+0 58
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 35
+WhatsApp/2.2019.8 N
+0 1
+CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; BW/1.1; bit.ly/2W6Px8S) Chrome/7
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 26
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+0 1
+Go-http-client/1.1
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1160
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 63
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.5
+0 292
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 53
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/83.0.41
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E14
+0 130
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 186
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 38
+Mozilla/5.0 (X11; Linux i686; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
